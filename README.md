@@ -9,7 +9,7 @@
 
 ## Objective
 
-I'm a passionate Security Researcher with a keen interest in security analysis. My journey is driven by a dedication to learning and experimenting with various tools and techniques. Below are a few projects that showcase my commitment to understanding and enhancing cybersecurity, as reflected in my certifications. 
+I'm a passionate Security Researcher with a keen interest in security analysis/Blue Teaming. My journey is driven by a dedication to learning and experimenting with various tools and techniques. Below are a few projects that showcase my commitment to understanding and enhancing cybersecurity, as reflected in my certifications. 
 
 ## Skills
 
@@ -53,7 +53,6 @@ I'm a passionate Security Researcher with a keen interest in security analysis. 
 </div>
 
 ## Certificates
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
