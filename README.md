@@ -19,7 +19,7 @@ I'm a passionate Security Researcher with a keen interest in security analysis/B
 - [Nmap Python & Bash Script (Automated Scan)](https://github.com/Morbius24/nmap-scan-scripts/blob/main/README.md)
    
 ## Log Analysis
-- [SPLUNK: (LOG Analysis)](https://github.com/Morbius24/SPLUNK-LOG-Analysis)
+- [SPLUNK: (LOG Analysis)](https://github.com/Morbius24/SPLUNK-LOG-Analysis/blob/main/README.md)
  
 ## SIEM LAB
 - [Elastic SIEM Lab: (Security Information and Event Management with Elastic Stack) ](https://github.com/Morbius24/Elastic-SIEM-LAB/blob/main/README.md)
