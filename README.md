@@ -14,9 +14,9 @@ I'm a passionate Security Researcher with a keen interest in security analysis/B
 ## Skills
 
 ## Automation and Scripting
-- [Python (TCP Socket Connection)](https://github.com/Morbius24/python-TCP-socket)
-- [30 Days Of Bash Script](https://github.com/Morbius24/30DaysOfBashScript)
-- [Nmap Python & Bash Script (Automated Scan)](https://github.com/Morbius24/nmap-scan-scripts)
+- [Python (TCP Socket Connection)](https://github.com/Morbius24/Python-TCP-Socket/blob/main/README.md)
+- [30 Days Of Bash Script](https://github.com/Morbius24/30-Days-of-Bash-Scripting/blob/main/README.md)
+- [Nmap Python & Bash Script (Automated Scan)](https://github.com/Morbius24/nmap-scan-scripts/blob/main/README.md)
    
 ## Log Analysis
 - [SPLUNK: (LOG Analysis)](https://github.com/Morbius24/SPLUNK-LOG-Analysis)
