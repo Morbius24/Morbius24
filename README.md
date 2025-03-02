@@ -26,15 +26,15 @@ I'm a passionate Security Researcher with a keen interest in security analysis. 
 - [Microsoft Sentinel SIEM LAB: (Security Information and Event Management with Sentinel) ](https://github.com/Morbius24/SIEM-Homelab/blob/main/README.md)
 
 ## Vulnerability Management
-- [Vulnerability Management Lab (Nmap)](https://github.com/Morbius24/Vulnerability-Management-Lab-Metasploit-/blob/main/README.md)
-- [Vulnerability Management Lab (Nessus)](https://github.com/Morbius24/Vulnerability-Management/blob/main/README.md)
-- [Vulnerability Management Lab (Nessus Reporting)](https://github.com/Morbius24/Vulnerability-Management-Blueteam-Nessus-/blob/main/README.md)
-- [Vulnerability Management Lab (Qualys)](https://github.com/Morbius24/Qualys-Vulnerability-Mangement/tree/main)
-- [Vulnerability Management Lab (Greenbone OpenVAS)](https://github.com/Morbius24/Greenbone-OpenVAS/tree/main)
-- [Exploiting Vulnerabilities: (A Comprehensive Approach with Nmap, Nessus, and Metasploit )](https://github.com/Morbius24/Exploiting-Vulnerabilities/blob/main/README.md)
+- [Vulnerability Management Lab (Nmap)](https://https://github.com/Morbius24/Vulnerability-Management-Lab-Nmap-)
+- [Vulnerability Management Lab (Nessus)](https://https://github.com/Morbius24/Vulnerability-Management-Lab-Nessus-)
+- [Vulnerability Management Lab (Nessus Reporting)](https://https://github.com/Morbius24/Vulnerability-Management-Lab-Nessus-Reporting-)
+- [Vulnerability Management Lab (Qualys)](https://https://github.com/Morbius24/Vulnerability-Management-Lab-Qualys-)
+- [Vulnerability Management Lab (Greenbone OpenVAS)](https://https://github.com/Morbius24/Vulnerability-Management-Lab-Greenbone-OpenVAS-)
+- [Exploiting Vulnerabilities: (A Comprehensive Approach with Nmap, Nessus, and Metasploit )](https://https://github.com/Morbius24/Exploiting-Vulnerabilities)
 
 ## Web Application Security
-- [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://github.com/Morbius24/OWwaspZAPLab/tree/main)
+- [Web Application Security (OWASP ZAP and OWASP Juice Shop)](https://https://github.com/Morbius24/OWwaspZAPLab)
 
 
 ## Tools
