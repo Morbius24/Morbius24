@@ -5,13 +5,13 @@
 <a href="https://www.linkedin.com/in/lethabo-mokoma/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-## CYBERSECURITY ANALYST
+## CYBERSECURITY ENGINEER 
 
 ## Objective
 
-I'm a passionate Security Researcher with a keen interest in security analysis/Blue Teaming. My journey is driven by a dedication to learning and experimenting with various tools and techniques. Below are a few projects that showcase my commitment to understanding and enhancing cybersecurity, as reflected in my certifications. 
+I'm a passionate Security Researcher with a keen interest in Security Engineering/Blue Teaming. My journey is driven by a dedication to learning and experimenting with various tools and techniques. Below are a few projects that showcase my commitment to understanding and enhancing cybersecurity, as reflected in my certifications. 
 
-## Skills
+## Hands-On Projects :
 
 ## Automation and Scripting
 - [Python (TCP Socket Connection)](https://github.com/Morbius24/Python-TCP-Socket/blob/main/README.md)
